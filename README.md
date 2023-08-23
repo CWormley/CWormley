@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CWormley
 - My focus is in Data Science and Machine Learning
-- I’m currently learning OOP
+- I’m currently learning Linux and Web Development
 - How to reach me cjwormley1@gmail.com
 
 <!---
