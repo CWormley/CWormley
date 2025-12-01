@@ -25,7 +25,7 @@ Software engineer passionate about building **full-stack applications**, **mobil
 
 Exploring **Generative AI**, advanced **mobile accessibility patterns**, and **cloud-native architectures**.
 
-[![Claudia's GitHub stats](https://github-readme-stats.vercel.app/api?username=CWormley)](https://github.com/anuraghazra/github-readme-stats)
+[![Claudia's GitHub stats](https://github-readme-stats.vercel.app/api?username=CWormley&show_icons=true&theme=radical)](https://github.com/CWormley)
 ---
 
 ### 📫 Connect
